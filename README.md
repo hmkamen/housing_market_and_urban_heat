@@ -21,6 +21,4 @@ Urban heat is a growing concern in U.S. cities, however it remains unclear how h
 
 ## Contact
 
-Questions or comments: please reach out via GitHub (`@hmkamen`).
-<img width="468" height="657" alt="image" src="https://github.com/user-attachments/assets/aa54f7db-4f0b-4068-9803-f17bdeb12f3f" />
-
+Questions or comments: please reach out via email at hkamen@mines.edu
